@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer - LLMOps | Python Developer | AI/ML Specialist</h3>
 
 <p align="center">
-  <img src="" alt="danny0068" />
+  <img src="https://komarev.com/ghpvc/?username=danny0068&label=Profile%20views&color=0e75b6&style=flat-square" alt="danny0068" />
 </p>
 
 ---
