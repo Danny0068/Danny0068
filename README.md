@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer - LLMOps | Python Developer | AI/ML Specialist</h3>
 
 <p align="center">
-  <img src="https://github.com/Danny0068/Danny0068/blob/main/profile_pic_deepak_.jpg" alt="danny0068" />
+  <img src="" alt="danny0068" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="./YOUR_PHOTO_FILENAME.jpg" width="220px" style="border-radius: 50%; border: 4px solid #3670A0;" alt="Deepak Shrivas">
+      <img src="https://github.com/Danny0068/Danny0068/blob/main/profile_pic_deepak_.jpg" width="220px" style="border-radius: 50%; border: 4px solid #3670A0;" alt="Deepak Shrivas">
     </td>
   </tr>
 </table>
