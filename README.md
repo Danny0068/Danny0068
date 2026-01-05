@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Shrivas</h1>
-<h3 align="center">Python Developer | AI/ML & LLM Engineer | RAG Specialist</h3>
+<h3 align="center">Software Engineer - LLMOps | Python Developer | AI/ML Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danny0068&label=Profile%20views&color=0e75b6&style=flat-square" alt="danny0068" />
@@ -7,44 +7,62 @@
 
 ---
 
-### 💫 About Me
-- 🔭 **Current Project:** Building a **RAG Theme Identifier** to optimize document retrieval.
-- 🌱 **Learning Path:** Masterng data streaming and cloud warehousing with **Snowflake & Kafka**.
-- 💬 **Ask me about:** Large Language Models (LLMs), Vector Databases, and Python Automation.
-- ⚡ **Fun Fact:** There are 8 billion people in this world, and you landed on my profile. Statistics say that's a sign! 🚀
-- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/15XzBE5WdqeFnIGuoHYwBXtawNHz4BRJK/view?usp=drive_link)
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>💫 About Me</h3>
+      <ul>
+        <li>🔭 **Current Focus:** Building production-grade **RAG systems** and **Agentic workflows**[cite: 5].</li>
+        <li>🎓 **Education:** B.Tech in Information Technology (2021-2025)[cite: 8, 11].</li>
+        <li>💡 **Expertise:** Optimizing LLM workflows, model fine-tuning (QLORA), and scalable AI deployment[cite: 6, 10].</li>
+        <li>💬 **Ask me about:** Prompt Engineering, Vector Databases (ChromaDB), and Model Benchmarking[cite: 5, 6, 10].</li>
+        <li>📄 **Resume:** <a href="https://drive.google.com/file/d/15XzBE5WdqeFnIGuoHYwBXtawNHz4BRJK/view?usp=drive_link">Download PDF</a></li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="./YOUR_PHOTO_FILENAME.jpg" width="220px" style="border-radius: 50%; border: 4px solid #3670A0;" alt="Deepak Shrivas">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧪 Research Experience
+- [cite_start]**Micro-Doppler Signature Classification:** Co-authoring a technical paper analyzing radar signatures to differentiate Drones vs. Birds[cite: 23].
+- [cite_start]**Model Benchmarking:** Conducted comparative performance analysis of **EfficientNetV2, ResNet, CNN, and SVM** architectures for real-time edge deployment[cite: 24, 25].
 
 ---
 
 ### 🛠️ Tech Stack
-
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| **AI / ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Web / Backend** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| **Cloud & DevOps**| ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| **LLMOps & GenAI** | [cite_start]`LangChain`, `Llama-3`, `RAG`, `ChromaDB`, `Hugging Face`, `Quantization (QLORA)` [cite: 10] |
+| **Machine Learning** | [cite_start]`PyTorch`, `TensorFlow`, `NLP`, `Model Evaluation`, `Computer Vision` [cite: 10] |
+| **Data & Backend** | [cite_start]`Python`, `FastAPI`, `Flask`, `Docker`, `AWS S3`, `MongoDB`, `CI/CD` [cite: 10] |
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **RAG Document Analysis** | [cite_start]LLM-based system to query unstructured data (PDFs/DOCX) with citation support[cite: 26, 30]. | [cite_start]`Llama-3`, `LangChain`, `FastAPI` [cite: 26] |
+| **DopplerNet** | [cite_start]CNN-based classification of radar signatures for drone/bird detection[cite: 34]. | [cite_start]`PyTorch`, `CNNs`, `Flask` [cite: 31] |
+| **Fraud Detection System** | [cite_start]High-precision model using XGBoost to identify anomalous financial transactions[cite: 37]. | [cite_start]`XGBoost`, `Scikit-Learn`, `Pandas` [cite: 35] |
+
+---
+
+### 🏆 Certifications & Achievements
+- [cite_start]**Smart India Hackathon 2024:** Semi-Finalist; led a team developing an AI-based solution[cite: 40].
+- [cite_start]**Python Essentials:** Certified by **CISCO**[cite: 39].
+- [cite_start]**Machine Learning:** Certified by **IBM**[cite: 39].
+- [cite_start]**Data Science Simulation:** Completed via **British Airways**[cite: 39].
+
+---
+
+### 📊 GitHub Activity
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danny0068&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danny0068&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny0068&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danny0068&theme=tokyonight&no-bg=true&margin-w=15" alt="danny0068" />
-  </a>
 </p>
 
 ---
@@ -54,5 +72,5 @@
 <a href="https://linkedin.com/in/deepak-shrivas" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://kaggle.com/ruinerscabinet" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 <a href="https://www.leetcode.com/deepak shrivas" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="mailto:dannyshrivas31@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:dannyshirvas31@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
